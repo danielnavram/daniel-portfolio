@@ -1,0 +1,21 @@
+{
+  "name": "portfolio-daniel",
+  "version": "0.0.1",
+  "description": "Here you'll find some of my works. I hope to keep adding more projects to my portfolio and being a Full Stack Developer.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages-deploy",
+    "clean-source": "rimraf README.md src webroot package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielnavram/daniel-portfolio.git"
+  },
+  "author": "Daniel Navarro Ramírez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielnavram/daniel-portfolio/issues"
+  },
+  "homepage": "https://github.com/danielnavram/daniel-portfolio#readme"
+}
